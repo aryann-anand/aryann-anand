@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Data Structures, Algorithms, Front-End Web Development and starting Machine Learning**
 
-- 📄 Know about my experiences [![here](https://img.shields.io/badge/-Click_Here-orange)](https://github.com/aryann-anand)
+- 📄 Know about my experiences [![here](https://img.shields.io/badge/-Click_Here-orange)](https://www.linkedin.com/in/aryananand18/)
 
 
 <img src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" align="right" width="300">
