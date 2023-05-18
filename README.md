@@ -5,15 +5,15 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryananand18/)](https://www.linkedin.com/in/aryananand18/)
 [![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ar.yannnnnnn/)](https://www.instagram.com/ar.yannnnnnn/)
-[![GitHub](https://img.shields.io/badge/-Github-%23100000.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/godofdocsync/)](https://github.com/godofdocsync/)
+[![GitHub](https://img.shields.io/badge/-Github-%23100000.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/aryann-anand/)](https://github.com/aryann-anand/)
 
 
 <!-- - 🔭 I’m currently working on [CodeMistic](https://codemistic.in) -->
-- 🎈My interest lies in Machine Learning, Data Science and Artificial Intelligence
+- 🎈My interest lies in Artificial Intelligence, Machine Learning and Front-End Development. 
 
-- 🌱 I’m currently learning **Data Structures, Algorithms, Web Development and Deep Learning**
+- 🌱 I’m currently learning **Data Structures, Algorithms, Front-End Web Development and starting Machine Learning**
 
-- 📄 Know about my experiences [![here](https://img.shields.io/badge/-Click_Here-orange)](https://github.com/godofdocsync)
+- 📄 Know about my experiences [![here](https://img.shields.io/badge/-Click_Here-orange)](https://github.com/aryann-anand)
 
 
 <img src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" align="right" width="300">
@@ -23,17 +23,17 @@
 
 ### Coding Profiles
 
-<a href="https://www.codechef.com/users/godofdocsync" target="blank"><img align="left" src="https://img.icons8.com/fluency/240/000000/codechef.png" alt="godofdocsync" height="32" width="37" /></a>
+<a href="https://www.codechef.com/users/aryann_anand/" target="blank"><img align="left" src="https://img.icons8.com/fluency/240/000000/codechef.png" alt="aryann_anand" height="32" width="37" /></a>
 
-<a href="https://www.hackerrank.com/godofdocsync" target="blank"><img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="godofdocsync" height="32" width="32" /></a>
+<a href="https://www.hackerrank.com/aryan_anand" target="blank"><img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="godofdocsync" height="32" width="32" /></a>
 
-<a href="https://leetcode.com/godofdocsync/" target="blank"><img align="left" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="godofdocsync" height="32" width="32" /></a>
+<a href="https://leetcode.com/aryan-anand/" target="blank"><img align="left" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="aryan-anand" height="32" width="32" /></a>
 
 <br/>
 
 
 ### Tools
-<a href ="https://github.com/godofdocsync">
+<a href ="https://github.com/aryann-anand">
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png" />
 <!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg" /> -->
 <!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefox.svg" /> -->
@@ -48,7 +48,7 @@
 
 
 ### Language
-<a href ="https://github.com/godofdocsync">
+<a href ="https://github.com/aryann-anand">
 <!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" /> -->
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" />
 <!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> -->
@@ -61,7 +61,7 @@
 <br/>
 
 ### Web Development Stack
-<a href ="https://github.com/godofdocsync">
+<a href ="https://github.com/aryann-anand">
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/html-5--v1.png" />
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/css3.png" />
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
@@ -81,4 +81,4 @@
 
 <p><img src="https://user-images.githubusercontent.com/39916680/132490679-1b93cc7e-d718-4410-9f43-8a5387c2cc7a.png" alt="" /></p>
 
-[![](https://img.shields.io/badge/Made%20With%20❤️%20By-Aryan%20Anand-red)](https://github.com/godofdocsync)
+[![](https://img.shields.io/badge/Made%20With%20❤️%20By-Aryan%20Anand-red)](https://github.com/aryann-anand)
