@@ -21,6 +21,10 @@
 
 <br/>
 
+<p align="center">
+  <img src="https://github.com/aryann-anand/aryann-anand/psst.yml"></center>
+</p>
+
 ### Coding Profiles
 
 <a href="https://www.codechef.com/users/aryann_anand/" target="blank"><img align="left" src="https://img.icons8.com/fluency/240/000000/codechef.png" alt="aryann_anand" height="32" width="37" /></a>
