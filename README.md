@@ -1,88 +1,31 @@
-<h1 align="center"> <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80">Howdy GitHub-er, Aryan Anand this side!</h1>
-
-<!-- <p align="center">
-<img src="https://media.giphy.com/media/27c7Jo2GU5tpCEQT0y/giphy.gif" width="300"> -->
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryananand18/)](https://www.linkedin.com/in/aryananand18/)
-[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ar.yannnnnnn/)](https://www.instagram.com/ar.yannnnnnn/)
-[![GitHub](https://img.shields.io/badge/-Github-%23100000.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/aryann-anand/)](https://github.com/aryann-anand/)
+# 💫 About Me:
+🔭 I’m currently working on CropWhisper: github.com/aryann-anand/CropWhisper<br>🤝 I’m looking to collaborate on AI/ML projects, Front-End Dev, WebApp Dev, IoT Automation, RPi Projects. <br>📚 I’m currently learning Machine Learning with Python, -> AI, Deep Learning with Neural Networks.<br>💬 Ask me about AI/ML, Computer Networking, Web Development, Robotics, Music, Games, Hacking.<br>⚡ Fun fact - Why did the AI go on a diet? Because it had too many bytes!
 
 
-<!-- - 🔭 I’m currently working on [CodeMistic](https://codemistic.in) -->
-- 🎈My interest lies in Artificial Intelligence, Machine Learning and Front-End Development. 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discordapp.com/users/synner#5986) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ar.yannnnnnn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryananand18) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Aryan-Anand-15) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/silly-coder) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18145081) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ar_yannnnn) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/aryananand) 
 
-- 🌱 I’m currently learning **Data Structures, Algorithms, Front-End Web Development and starting Machine Learning**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat-square&logo=Adobe%20Audition&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi) ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aryann-anand&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aryann-anand&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryann-anand&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 📄 Know about my experiences [![here](https://img.shields.io/badge/-Click_Here-orange)](https://www.linkedin.com/in/aryananand18/)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aryann-anand&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=ar_yannnnn)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-<img src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" align="right" width="300">
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aryann-anand&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=aryann-anand&icon=3&color=10)](https://visitcount.itsvg.in)
 
-<br/>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aryananand18) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/aryananand) 
 
-<p align="center">
-  <img src="https://github.com/aryann-anand/aryann-anand/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-### Coding Profiles
-
-<a href="https://www.codechef.com/users/aryann_anand/" target="blank"><img align="left" src="https://img.icons8.com/fluency/240/000000/codechef.png" alt="aryann_anand" height="32" width="37" /></a>
-
-<a href="https://www.hackerrank.com/aryan_anand" target="blank"><img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="godofdocsync" height="32" width="32" /></a>
-
-<a href="https://leetcode.com/aryan-anand/" target="blank"><img align="left" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="aryan-anand" height="32" width="32" /></a>
-
-<br/>
-
-
-### Tools
-<a href ="https://github.com/aryann-anand">
-<img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png" />
-<!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg" /> -->
-<!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefox.svg" /> -->
-<!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" /> -->
-<img align="left" height="32" width="32" src="https://img.icons8.com/color/48/000000/heroku.png" />
-<img align="left" height="32" width="32" src="https://img.icons8.com/officexs/160/000000/java-eclipse.png"  />
-<img align="left" height="32" width="32" src="https://img.icons8.com/stickers/100/000000/github.png" />
-<img align="left" height="32" width="32" src="https://img.icons8.com/color/344/tensorflow.png" />
-<img align="left" height="32" width="32" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/2x/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png" />
- </a>
-<br/>
-
-
-### Language
-<a href ="https://github.com/aryann-anand">
-<!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" /> -->
-<img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" />
-<!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> -->
-<!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> -->
-<img align="left" height="37" width="37" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v2.png" />
-<img align="left" height="32" width="32" src="https://img.icons8.com/external-others-phat-plus/128/000000/external-connection-browser-and-interface-blue-others-phat-plus-6.png" />
-
-</a>
-
-<br/>
-
-### Web Development Stack
-<a href ="https://github.com/aryann-anand">
-<img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/html-5--v1.png" />
-<img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/css3.png" />
-<img align="left" height="32" width="32" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> -->
-<!-- <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/spring-logo.png" /> -->
-<img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/tomcat.png" />
-<img align="left" height="32" width="32" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
-</a>
-<br/>
-
-### App Development Stack
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" />
-<br/>
-<br/> 
-
-
-<p><img src="https://user-images.githubusercontent.com/39916680/132490679-1b93cc7e-d718-4410-9f43-8a5387c2cc7a.png" alt="" /></p>
-
-[![](https://img.shields.io/badge/Made%20With%20❤️%20By-Aryan%20Anand-red)](https://github.com/aryann-anand)
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
