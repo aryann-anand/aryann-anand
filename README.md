@@ -22,7 +22,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github.com/aryann-anand/aryann-anand/psst.yml"></center>
+  <img src="https://github.com/aryann-anand/aryann-anand/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 ### Coding Profiles
