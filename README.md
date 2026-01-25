@@ -16,13 +16,11 @@
 ---
 
 ## 🌐 Quick links
-- Portfolio: https://www.heyaryan.xyz/  
-- AudioSync (live): https://audiosync.heyaryan.xyz/  
-- Resume: https://www.heyaryan.xyz/resume  
-- Current repo: https://github.com/aryann-anand/fourzerofour  
-- GitHub: https://github.com/aryann-anand  
-- LinkedIn: https://www.linkedin.com/in/aryananand18/  
-- Email: aryananand.syn@gmail.com  
+- Portfolio: https://www.heyaryan.xyz/
+- Resume: https://www.heyaryan.xyz/resume
+- Current repo: https://github.com/aryann-anand/fourzerofour
+- GitHub: https://github.com/aryann-anand
+- LinkedIn: https://www.linkedin.com/in/aryananand18/
 
 ---
 
@@ -37,9 +35,9 @@ Next.js (v14) · TypeScript · React · Tailwind · Spline (3D) · GSAP · Frame
 ---
 
 ## 📫 Contact / collaborations
-- Email: `aryananand.syn@gmail.com`  
-- LinkedIn: `aryananand18`  
-- Open for: freelance, startups, research collaborations (AI/ML, frontend, realtime).  
+- Text Me: https://www.heyaryan.xyz/contact
+- LinkedIn: `aryananand18`
+- Open for: freelance, startups, research collaborations (AI/ML, frontend, realtime).
 
 ---
 
