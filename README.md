@@ -40,10 +40,3 @@ Next.js (v14) · TypeScript · React · Tailwind · Spline (3D) · GSAP · Frame
 - Open for: freelance, startups, research collaborations (AI/ML, frontend, realtime).
 
 ---
-
-## 📊 GitHub stats & badges
-![](https://github-readme-stats.vercel.app/api?username=aryann-anand&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aryann-anand&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryann-anand&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
