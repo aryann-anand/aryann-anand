@@ -1,6 +1,6 @@
 # 💫 About Me
 
-**Aryan Anand — Software Development Engineer**
+**Software Development Engineer**
 
 🔭 Currently: Building **AudioSync** — low‑latency local‑network audio streaming (live).  
 🤝 Open to: AI/ML collaborations, Front‑End & WebApp development, IoT / Raspberry Pi projects.  
