@@ -1,42 +1,41 @@
-# 💫 About Me
+# Aryan Anand
 
-**Software Development Engineer**
+SDE @ Ninestars (R&D) · Bangalore  
+Backend · AI/ML · Realtime Systems · DevOps
 
-🔭 Currently: Building **AudioSync** — low‑latency local‑network audio streaming (live).  
-🤝 Open to: AI/ML collaborations, Front‑End & WebApp development, IoT / Raspberry Pi projects.  
-📚 Learning: Machine Learning (Python) → AI / Deep Learning / Neural Networks.  
-💬 Ask me about: AI/ML, Web development, Computer Networking, Robotics, Music, Games, Hacking.  
-⚡ Fun fact: Why did the AI go on a diet? Because it had too many bytes!  
+[Portfolio](https://heyaryan.xyz) · [Resume](https://drive.google.com/file/d/1x5JK6bJyfGeRZKN_i39LPHtioS43m_os/view) · [LinkedIn](https://linkedin.com/in/aryananand18) · [Contact](https://heyaryan.xyz/contact) · [Email](mailto:aryananand.syn@gmail.com)
 
 ---
 
-## 🔥 What's new (Jan 2026)
-- Launched **AudioSync** — real‑time, low‑latency local‑network audio streaming (live: https://audiosync.heyaryan.xyz/).
+## Projects
+
+| Project | What it does | Live |
+|---|---|---|
+| **nukeit** | One-tap remote failsafe killswitch | [nukeit.heyaryan.xyz](https://nukeit.heyaryan.xyz/) |
+| **Khoon ki Khabar** | hmmmmm.... figure it out yourself | [khoonkikhabar.heyaryan.xyz](https://khoonkikhabar.heyaryan.xyz) |
+| **AudioSync** | Low-latency LAN audio streaming with party codes | [audiosync.heyaryan.xyz](https://audiosync.heyaryan.xyz) |
+| **autocv** | Automated cover letter generator | [autocv.heyaryan.xyz](https://autocv.heyaryan.xyz/) |
+| **LSD** | High contrast theme for VSCode | [Marketplace](https://marketplace.visualstudio.com/items?itemName=aryan0000.psychedelic-lsd-theme) |
+| **Portfolio** | Home sweet home | [heyaryan.xyz](https://heyaryan.xyz) |
 
 ---
 
-## 🌐 Quick links
-- Portfolio: https://www.heyaryan.xyz/
-- Resume: https://www.heyaryan.xyz/resume
-- Current repo: https://github.com/aryann-anand/fourzerofour
-- GitHub: https://github.com/aryann-anand
-- LinkedIn: https://www.linkedin.com/in/aryananand18/
+## Stack
+
+`Python` `FastAPI` `Django` `PostgreSQL` `Redis` `Docker`  
+`Next.js` `TypeScript` `React` `Tailwind` `Socket.io`  
+`PyTorch` `TensorFlow` `Qdrant` `AWS` · and more
 
 ---
 
-## 📌 Selected projects
-- **AudioSync** — share audio across devices on a local network; real‑time streaming with 5‑char party codes and low latency. Live: https://audiosync.heyaryan.xyz/
+## Experience
+
+**SDE - R&D · Ninestars Information Technologies, Bangalore** *(Jun 2025 – Present)*  
+RAG systems, secrets management, distributed DB migration, rate-limiting + billing infra.
+
+**ML Intern · TIH IoT, IIT Bombay, Mumbai** *(Sep 2023 – Dec 2023)*  
+U2-Net pipelines, CNN-based hyperspectral imagery segmentation, model deployment.
 
 ---
 
-## 💻 Tech highlights
-Next.js (v14) · TypeScript · React · Tailwind · Spline (3D) · GSAP · Framer Motion · Socket.io · Firebase · Supabase · PostgreSQL · Prisma · Docker · Vercel · Python · PyTorch / TensorFlow (ML)
-
----
-
-## 📫 Contact / collaborations
-- Text Me: https://www.heyaryan.xyz/contact
-- LinkedIn: `aryananand18`
-- Open for: freelance, startups, research collaborations (AI/ML, frontend, realtime).
-
----
+Open to freelance, collabs, and interesting problems.
