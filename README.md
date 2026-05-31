@@ -38,4 +38,10 @@ U2-Net pipelines, CNN-based hyperspectral imagery segmentation, model deployment
 
 ---
 
+## 🎓 Education
+
+**B.Tech Computer Science and Engineering · Vellore Institute of Technology** *(2021 – 2025)*
+
+---
+
 Open to freelance, collabs, and interesting problems.
