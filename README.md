@@ -7,7 +7,7 @@ Backend · AI/ML · Realtime Systems · DevOps
 
 ---
 
-## Projects
+## 🚀 Projects
 
 | Project | What it does | Live |
 |---|---|---|
@@ -20,7 +20,7 @@ Backend · AI/ML · Realtime Systems · DevOps
 
 ---
 
-## Stack
+## 🛠 Stack
 
 `Python` `FastAPI` `Django` `PostgreSQL` `Redis` `Docker`  
 `Next.js` `TypeScript` `React` `Tailwind` `Socket.io`  
@@ -28,7 +28,7 @@ Backend · AI/ML · Realtime Systems · DevOps
 
 ---
 
-## Experience
+## 💼 Experience
 
 **SDE - R&D · Ninestars Information Technologies, Bangalore** *(Jun 2025 – Present)*  
 RAG systems, secrets management, distributed DB migration, rate-limiting + billing infra.
