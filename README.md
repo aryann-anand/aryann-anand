@@ -1,9 +1,9 @@
 # Aryan Anand
 
 SDE @ Ninestars (R&D) · Bangalore  
-Backend · AI/ML · Realtime Systems · DevOps
+Backend · Distributed Systems · AI/ML · DevOps
 
-[Portfolio](https://heyaryan.xyz) · [Resume](https://drive.google.com/file/d/1x5JK6bJyfGeRZKN_i39LPHtioS43m_os/view) · [LinkedIn](https://linkedin.com/in/aryananand18) · [Contact](https://heyaryan.xyz/contact) · [Email](mailto:aryananand.syn@gmail.com)
+[Website](https://heyaryan.xyz) · [Resume](https://drive.google.com/file/d/1x5JK6bJyfGeRZKN_i39LPHtioS43m_os/view) · [LinkedIn](https://linkedin.com/in/aryananand18) · [Contact](https://heyaryan.xyz/contact) · [Email](mailto:aryananand.syn@gmail.com)
 
 ---
 
@@ -11,6 +11,7 @@ Backend · AI/ML · Realtime Systems · DevOps
 
 | Project | What it does | Live |
 |---|---|---|
+| **odin** | odin keeps running when its machines don't | [odin.heyaryan.xyz](https://odin.heyaryan.xyz/) |
 | **nukeit** | One-tap remote failsafe killswitch | [nukeit.heyaryan.xyz](https://nukeit.heyaryan.xyz/) |
 | **Khoon ki Khabar** | hmmmmm.... figure it out yourself | [khoonkikhabar.heyaryan.xyz](https://khoonkikhabar.heyaryan.xyz) |
 | **AudioSync** | Low-latency LAN audio streaming with party codes | [audiosync.heyaryan.xyz](https://audiosync.heyaryan.xyz) |
