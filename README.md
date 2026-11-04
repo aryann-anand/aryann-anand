@@ -12,12 +12,10 @@ Backend · Distributed Systems · AI/ML · DevOps
 | Project | What it does | Live |
 |---|---|---|
 | **odin** | odin keeps running when its machines don't | [odin.heyaryan.xyz](https://odin.heyaryan.xyz/) |
+| **hermod** | the name's good for now | [hermod.heyaryan.xyz](https://hermod.heyaryan.xyz/) |
 | **nukeit** | One-tap remote failsafe killswitch | [nukeit.heyaryan.xyz](https://nukeit.heyaryan.xyz/) |
-| **Khoon ki Khabar** | hmmmmm.... figure it out yourself | [khoonkikhabar.heyaryan.xyz](https://khoonkikhabar.heyaryan.xyz) |
-| **AudioSync** | Low-latency LAN audio streaming with party codes | [audiosync.heyaryan.xyz](https://audiosync.heyaryan.xyz) |
-| **autocv** | Automated cover letter generator | [autocv.heyaryan.xyz](https://autocv.heyaryan.xyz/) |
 | **LSD** | High contrast theme for VSCode | [Marketplace](https://marketplace.visualstudio.com/items?itemName=aryan0000.psychedelic-lsd-theme) |
-| **Portfolio** | Home sweet home | [heyaryan.xyz](https://heyaryan.xyz) |
+| **Website** | Home sweet home | [heyaryan.xyz](https://www.heyaryan.xyz) |
 
 ---
 
