@@ -1,6 +1,4 @@
-<img src="assets/desk.gif" alt="Pixel art: a programmer slumped back in a chair, one hand behind the head and a lit cigarette in the other, code scrolling on two displays" width="200" align="right">
-
-# Aryan Anand
+<img src="assets/crash-out.gif" alt="Pixel-art loop: a build fails at the desk; the programmer storms to the middle of the room and rants in speech bubbles (why, it's always DNS, who wrote this, oh, me), sits on the floor to light a cigarette, flops onto a pink bean bag, then walks back to the screens" width="100%">
 
 **I build backends that keep their promises when machines die mid-write.**
 
