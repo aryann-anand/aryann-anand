@@ -1,4 +1,4 @@
-<img src="assets/header.png" alt="" width="100%">
+<img src="assets/desk.gif" alt="Pixel art: a programmer slumped back in a chair, one hand behind the head and a lit cigarette in the other, code scrolling on two displays" width="200" align="right">
 
 # Aryan Anand
 
@@ -11,6 +11,8 @@ Software Development Engineer, R&D at Ninestars, Bangalore. Python at work, Go o
 ## Projects you can poke at
 
 ### [odin](https://odin.heyaryan.xyz) · a durable workflow engine
+
+<img src="assets/odin-failover.svg" alt="odin failover, animated: engine-2 is killed, its leases run out, and engines 1 and 3 take its 21 shards; the checker finds no run lost and none charged twice" width="100%">
 
 Kill any process at any line: no run is lost and no step's side effect happens twice. Workflows are plain async Python functions whose event-sourced history in PostgreSQL is replayed, across 64 shards on fenced leases over 3 nodes, with a transactional outbox to RabbitMQ.
 
